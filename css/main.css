@@ -1,0 +1,14 @@
+.li{
+    text-align: center;
+    border: 5px solid rgb(209, 205, 205);
+    
+    
+    width: 700px; 
+    height: 330px;
+}
+.ul{
+   
+    list-style: none; 
+    display: flex;
+    
+}
